@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Entrega de billetes/1.0.0": {
+        "runtime": {
+          "Entrega de billetes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entrega de billetes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\bin\Debug\net5.0\Entrega de billetes.exe
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\bin\Debug\net5.0\Entrega de billetes.deps.json
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\bin\Debug\net5.0\Entrega de billetes.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\bin\Debug\net5.0\Entrega de billetes.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\bin\Debug\net5.0\Entrega de billetes.dll
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\bin\Debug\net5.0\ref\Entrega de billetes.dll
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\bin\Debug\net5.0\Entrega de billetes.pdb
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.dll
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\ref\Entrega de billetes.dll
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.pdb
+C:\Users\LENOVO\source\repos\Entrega de billetes\Entrega de billetes\obj\Debug\net5.0\Entrega de billetes.genruntimeconfig.cache
